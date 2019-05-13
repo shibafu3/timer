@@ -18,6 +18,7 @@
 
 // 参考URL
 // http://vivi.dyndns.org/tech/cpp/timeMeasurement.html
+// https://cpplover.blogspot.com/2012/05/c11.html
 
 
 // 時間計測ライブラリのインクルード（C++11）
